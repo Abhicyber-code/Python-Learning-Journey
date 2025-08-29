@@ -23,38 +23,54 @@ This repository documents my systematic journey through Python programming, appl
 ```
 Python-Learning-Journey/
 │
-├── 🔢 01-basics/              # Foundation: Core arithmetic & variables
-│   └── add_two_numbers.py     # First steps in Python arithmetic
+├── 🔢 01-basics-fundamentals/           # Foundation: Core arithmetic & variables
+│   ├── add_two_numbers.py              # First steps in Python arithmetic
+│   ├── 01_basic_arithmetic.py          # Enhanced arithmetic operations
+│   ├── 02_calculate_average.py         # Average calculation methods
+│   └── 03_data_types_demo.py          # Data type demonstrations
 │
-├── 📊 02-data-types/          # Type System: Understanding Python's data model
-│   └── variable_typecheck.py  # Dynamic typing exploration
+├── 📊 02-data-types-variables/         # Type System: Understanding Python's data model
+│   └── variable_typecheck.py           # Dynamic typing exploration
 │
-├── 💬 03-user-input/          # I/O Operations: Interactive programming
-│   └── average.py             # User interaction & mathematical processing
+├── 💬 03-user-input-interaction/       # I/O Operations: Interactive programming
+│   └── average.py                      # User interaction & mathematical processing
 │
-├── ⚙️ 04-math-operations/     # Mathematical Computing: Core algorithms
-│   ├── find_remainder.py      # Modular arithmetic applications
-│   └── square_of_no.py        # Exponential operations
+├── ⚙️ 04-math-operations-calculations/ # Mathematical Computing: Core algorithms
+│   ├── find_remainder.py               # Modular arithmetic applications
+│   └── square_of_no.py                 # Exponential operations
 │
-├── 🔍 05-comparisons/         # Logic Systems: Boolean operations
-│   └── greater_or_not.py      # Conditional logic implementation
+├── 🔍 05-comparisons-conditionals/     # Logic Systems: Boolean operations
+│   ├── greater_or_not.py               # Conditional logic implementation
+│   ├── 01_comparison_operators.py      # Comparison operations
+│   └── 02_find_remainder.py           # Advanced remainder operations
 │
-├── 📝 06-lists-tuples/        # Data Structures: Collection management
-│   ├── list_example.py        # Dynamic array operations
-│   └── sort_function.py       # Algorithm implementation
+├── 📝 06-lists-tuples/                 # Linear Data Structures: Lists & Tuples
+│   ├── list_example.py                 # Dynamic array operations
+│   ├── sort_function.py                # Sorting algorithms
+│   ├── 01_lists_basics.py             # List fundamentals
+│   ├── sum_numbers_in_list.py         # List mathematical operations
+│   └── zeros_in_tuple.py              # Tuple operations
 │
-├── 🔤 07-strings/             # Text Processing: String algorithms
-│   ├── check_doublespaces.py  # Pattern recognition
-│   ├── display_name.py        # String formatting
-│   ├── Escape_secquence.py    # Special character handling
-│   └── letter_templete.py     # Template processing
+├── 📚 07-dictionaries/                 # Key-Value Data Structures: Dictionaries
+│   ├── dict.py                        # Dictionary operations
+│   └── hindiwords.py                  # Dictionary with Hindi words
 │
-├── 📁 08-file-operations/     # System I/O: File handling
-│   ├── print_dir_content.py   # Directory traversal
-│   └── printpoem.py           # File reading operations
+├── 🔗 08-sets/                         # Unique Collections: Set Operations
+│   ├── set.py                         # Set operations
+│   └── input_set_values.py           # Interactive set operations
 │
-└── 🔧 09-modules/             # Modular Programming: Code organization
-    └── externalmodule.py      # Import system & code reusability
+├── 🔤 09-strings-text-processing/      # Text Processing: String algorithms
+│   ├── check_doublespaces.py          # Pattern recognition
+│   ├── display_name.py                # String formatting
+│   ├── Escape_secquence.py            # Special character handling
+│   └── letter_templete.py             # Template processing
+│
+├── 📁 10-file-operations-io/           # System I/O: File handling
+│   ├── print_dir_content.py           # Directory traversal
+│   └── printpoem.py                   # File reading operations
+│
+└── 🔧 11-modules-imports/              # Modular Programming: Code organization
+    └── externalmodule.py               # Import system & code reusability
 ```
 
 ## 🚀 **Learning Methodology**

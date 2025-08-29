@@ -1,0 +1,21 @@
+set=set()
+
+
+a=input("Enter the element: ")
+set.add(int(a))
+a=input("Enter the element: ")
+set.add(int(a))
+a=input("Enter the element: ")
+set.add(int(a))
+a=input("Enter the element: ")
+set.add(int(a))
+a=input("Enter the element: ")
+set.add(int(a))
+a=input("Enter the element: ")
+set.add(int(a))
+a=input("Enter the element: ")
+set.add(int(a))
+a=input("Enter the element: ")
+set.add(int(a))
+
+print(set)
